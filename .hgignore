@@ -1,0 +1,15 @@
+syntax: glob
+
+# IntelliJ files
+.idea/
+*.iws
+
+# Node
+build/
+dist/
+node_modules/
+.tmp
+*.log
+
+# version control
+.git
